@@ -1,4 +1,4 @@
-##This project is part of Udacity's (udacity.com) Machine Learning Nanodegree program.
+##This project is part of Udacity's Machine Learning Nanodegree program.
 ##Essentially the purpose of this project is to predict the price of a house in Boston using various features such as the number of rooms, qualify of school district, etc...
 
 ### The data set for this project is the housing.csv file located in this repository.
