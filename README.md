@@ -1,10 +1,12 @@
-##This project is part of Udacity's Machine Learning Nanodegree program.
-##Essentially the purpose of this project is to predict the price of a house in Boston using various features such as the number of rooms, qualify of school district, etc...
-
-### The data set for this project is the housing.csv file located in this repository.
-##
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
+## This project is part of Udacity's Machine Learning Nanodegree program.
+## Essentially the purpose of this project is to predict the price of a house in Boston using various features such as the number of rooms,
+
+
+## qualify of school district, etc...
+
+### The data set for this project is the housing.csv file located in this repository.
 
 ### Install
 
@@ -13,6 +15,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
