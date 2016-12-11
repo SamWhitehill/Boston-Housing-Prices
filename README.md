@@ -1,7 +1,7 @@
+## This project is part of Udacity's Machine Learning Nanodegree program.
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
-## This project is part of Udacity's Machine Learning Nanodegree program.
-## Essentially the purpose of this project is to predict the price of a house in Boston using various features such as the number of rooms, qualify of school district, etc...
+### Essentially the purpose of this project is to predict the price of a house in Boston using various features such as the number of rooms, qualify of school district, etc...
 
 ### The project code and results are located in the boston_housing.ipynb (Python Notebook) file.
 ### The data set for this project is the housing.csv file located in this repository.
